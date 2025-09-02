@@ -1,0 +1,1 @@
+The file contains the CTA API key is in the path myproject/cta/views.py
